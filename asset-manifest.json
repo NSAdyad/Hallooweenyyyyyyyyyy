@@ -1,0 +1,69 @@
+{
+  "landing": "landing-background.jpg",
+  "history": [
+    {
+      "step": 1,
+      "title": "Samhain",
+      "image": "01_samhain.jpeg"
+    },
+    {
+      "step": 2,
+      "title": "Christianity and All Saints’ Day",
+      "image": "02_christianity_and_all_saints_day.jpeg"
+    },
+    {
+      "step": 3,
+      "title": "Halloween – The Name",
+      "image": "03_halloween_the_name.jpeg"
+    },
+    {
+      "step": 4,
+      "title": "Legend of Jack-o’-Lanterns",
+      "image": "04_legend_of_jack_o_lanterns.jpeg"
+    },
+    {
+      "step": 5,
+      "title": "Pumpkins",
+      "image": "05_pumpkins.jpeg"
+    },
+    {
+      "step": 6,
+      "title": "Halloween Celebrations",
+      "image": "06_halloween_celebrations.jpeg"
+    },
+    {
+      "step": 7,
+      "title": "Trick or Treating",
+      "image": "07_trick_or_treating.jpeg"
+    },
+    {
+      "step": 8,
+      "title": "Halloween Events",
+      "image": "08_halloween_events.jpeg"
+    },
+    {
+      "step": 9,
+      "title": "Pumpkin Records",
+      "image": "09_pumpkin_records.jpeg"
+    },
+    {
+      "step": 10,
+      "title": "2010 World Record Pumpkin Pie",
+      "image": "10_2010_world_record_pumpkin_pie.jpeg"
+    },
+    {
+      "step": 11,
+      "title": "Most Lit Pumpkins",
+      "image": "11_most_lit_pumpkins.jpeg"
+    },
+    {
+      "step": 12,
+      "title": "Fastest Pumpkin Carver",
+      "image": "12_fastest_pumpkin_carver.jpeg"
+    }
+  ],
+  "vocabulary_count": 53,
+  "restaurant_images": 54,
+  "quality_policy": "Original uploaded image bytes are copied without recompression. ZIP uses stored (no compression) entries.",
+  "missing_asset_note": "Maze was not present in the mounted uploads, so a simple editable SVG placeholder is included as vocabulary item 53."
+}

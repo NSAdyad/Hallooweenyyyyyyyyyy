@@ -1,0 +1,647 @@
+[
+  {
+    "original_filename": "01-samhain.jpeg",
+    "sha256": "bdabe9ec86320c10fe935da5341ce7544377e99483681d993e08bd12be151f4f",
+    "bytes": 690953
+  },
+  {
+    "original_filename": "02-christianity-all-saints-day.jpeg",
+    "sha256": "bf68c3fe7e7202b7157e620962df94d2e6c3219c6b1e960d67fb604c365b420f",
+    "bytes": 543556
+  },
+  {
+    "original_filename": "03-halloween-the-name.jpeg",
+    "sha256": "dc41546b0c7bc80695c88d58adf0da27f7accabb5a0d9da2bdf3322b92570b33",
+    "bytes": 575113
+  },
+  {
+    "original_filename": "03_Chef.png",
+    "sha256": "5b3463cd11e4029fb13ef6d8f89be256fc1a9f9fec642125d7410705b5c4338e",
+    "bytes": 3435536
+  },
+  {
+    "original_filename": "04-jack-o-lanterns.jpeg",
+    "sha256": "7b928eedc4157ec61251fc5d4d842b01b2e05b57b58700cf107a00e2d5971990",
+    "bytes": 605437
+  },
+  {
+    "original_filename": "05-pumpkins.jpeg",
+    "sha256": "7b5133dbaa8b8a77f0d80387ba7df7f2f32847cf55b30db80be9d6546bda4e6c",
+    "bytes": 653449
+  },
+  {
+    "original_filename": "06-halloween-celebrations.jpeg",
+    "sha256": "6f1366dfa9ddc372c70ba0b7a46c173f925401e09e1f2fbeab4ec1896a8e07f5",
+    "bytes": 612772
+  },
+  {
+    "original_filename": "06_Kitchen.png",
+    "sha256": "afce4e0ece149d569e3f48f4d1203246cda22f74a30d7d41c75cc1f6b8c9a835",
+    "bytes": 3787355
+  },
+  {
+    "original_filename": "07-trick-or-treating.jpeg",
+    "sha256": "81210f5b2a6e62bb9ddee39b647317b8ff979f8e69f26edbaa22de66a6aaef0f",
+    "bytes": 669636
+  },
+  {
+    "original_filename": "070AC367-B2D4-4F2C-9996-9BAED885B16B(20260926-160039).jpeg",
+    "sha256": "70d35e5e995ee2f92166228831beff496da10bf5df37d5bcfd7a5e1fcf9da5d3",
+    "bytes": 999135
+  },
+  {
+    "original_filename": "070AC367-B2D4-4F2C-9996-9BAED885B16B(20260927-061413).jpeg",
+    "sha256": "70d35e5e995ee2f92166228831beff496da10bf5df37d5bcfd7a5e1fcf9da5d3",
+    "bytes": 999135
+  },
+  {
+    "original_filename": "08-halloween-events.jpeg",
+    "sha256": "ca0f5f303ca5615377b732e4560aaeefcff896ec61553e6671340f7ffb71a8ed",
+    "bytes": 685017
+  },
+  {
+    "original_filename": "09-pumpkin-records.jpeg",
+    "sha256": "c68902a94c66e38f457a17467c87f45bd074b5300adb24f9a44dc772757d2612",
+    "bytes": 661700
+  },
+  {
+    "original_filename": "09_Menu.png",
+    "sha256": "e3d04374c0e56f91bb93f2ac78639ac44e67e3b46efee6bf7d11358e11875ce1",
+    "bytes": 3426762
+  },
+  {
+    "original_filename": "10-giant-pumpkin-pie.jpeg",
+    "sha256": "5ec0f1ceed05052d6d7be74fc774d55a4740793081dc0a62c91874495211fc23",
+    "bytes": 725534
+  },
+  {
+    "original_filename": "10_Plate.png",
+    "sha256": "308755dac5e756075eb6ba69cdb5c8544b2f7f8bd8db8da81b859fa12169ce77",
+    "bytes": 3251142
+  },
+  {
+    "original_filename": "11-most-lit-pumpkins.jpeg",
+    "sha256": "f6264a1353809c2747159b331393c24345ca6683a5f48fa8292ab7b712fc4854",
+    "bytes": 670634
+  },
+  {
+    "original_filename": "12-fastest-pumpkin-carver.jpeg",
+    "sha256": "c23545dcbbc1f27a54415cde5342a094d3f84f623ef82a539a6746cf3a08d49d",
+    "bytes": 636484
+  },
+  {
+    "original_filename": "12_Glass.png",
+    "sha256": "cd1ef9f2e5576ec7f0cd931bf3afece975ce9a61a1b9e75ae3347bcbd4955dce",
+    "bytes": 3337052
+  },
+  {
+    "original_filename": "14_Fork.png",
+    "sha256": "3eca9e5cd7613eb7dee441ddb7d7ebb513075ece2d3ad43d0d5616e32e7700ce",
+    "bytes": 3426993
+  },
+  {
+    "original_filename": "16_Cutlery.png",
+    "sha256": "0e6fe9d4eaaefa063f51b2b1ef958fe9395f950031c8a2c78adb086971bb3868",
+    "bytes": 937518
+  },
+  {
+    "original_filename": "18_Beef.png",
+    "sha256": "8772a4066a72946897328a9a0486b16bab7517b91644ddc907b7d32bb3a2d953",
+    "bytes": 968447
+  },
+  {
+    "original_filename": "22_Pork.png",
+    "sha256": "210bafbd8474778cf361371430d80b53d8c7d70faafbb8b8c0cbcd4b7da62276",
+    "bytes": 956162
+  },
+  {
+    "original_filename": "23_Sheep.png",
+    "sha256": "0c71b72ce4e049c0a3967a020587f0ff6d16dcf512d19d7d143e8647c12de3b2",
+    "bytes": 999964
+  },
+  {
+    "original_filename": "35_Baked.png",
+    "sha256": "7f1e1f8a92f216151b388cc7d84e8f8a100f2691296c57961cc051156e5fdcac",
+    "bytes": 871936
+  },
+  {
+    "original_filename": "40_Sweet.png",
+    "sha256": "a764704b4fc5f9ffe47adda7d40a8bda4e64e89dc6dcf159fc4fef7334f30420",
+    "bytes": 3441654
+  },
+  {
+    "original_filename": "44_Gluten_Free.png",
+    "sha256": "198e55911ab5870ae42392097e095b0dc924edcf552024a1b175cf2330589a5c",
+    "bytes": 3585887
+  },
+  {
+    "original_filename": "47_Prawns.png",
+    "sha256": "fb642fcf680b309377419fa03105f92431691711536e0c054963b5672180ecf4",
+    "bytes": 134721
+  },
+  {
+    "original_filename": "50_Octopus.png",
+    "sha256": "9963e9461193a953ac917400deecf1adbc49b3e452f8a450013329c4270c33bc",
+    "bytes": 165615
+  },
+  {
+    "original_filename": "51_Lobster.png",
+    "sha256": "c8a087e4fb9c7e11a752175fc7118ba2463449d162fd061749ea028e991ce4aa",
+    "bytes": 161777
+  },
+  {
+    "original_filename": "52_Crab.png",
+    "sha256": "dfba881a15574280f3e336e54612091a8a14b0bab00727460a23ee13e7003e41",
+    "bytes": 157457
+  },
+  {
+    "original_filename": "54_Side_Dish.png",
+    "sha256": "ada50315001988347e5afd5712dd39fe58c19b6081164b65d07d03b0e495b044",
+    "bytes": 1743049
+  },
+  {
+    "original_filename": "9ED37691-485E-4DDF-A658-6C4B36D7A29A(5).jpeg",
+    "sha256": "d3f63015d1f65524bd5254a4add2ab755f1b4c1fe97b06374d543dee71c67d51",
+    "bytes": 61681
+  },
+  {
+    "original_filename": "9ED37691-485E-4DDF-A658-6C4B36D7A29A(6).jpeg",
+    "sha256": "d3f63015d1f65524bd5254a4add2ab755f1b4c1fe97b06374d543dee71c67d51",
+    "bytes": 61681
+  },
+  {
+    "original_filename": "AE6CB369-33FB-4E33-924C-87091B4FF00E(5).jpeg",
+    "sha256": "c739aaa55e991685589bb49f93c37d0c27f10b91fabcf12b0270f4e56e342445",
+    "bytes": 81739
+  },
+  {
+    "original_filename": "AE6CB369-33FB-4E33-924C-87091B4FF00E(6).jpeg",
+    "sha256": "c739aaa55e991685589bb49f93c37d0c27f10b91fabcf12b0270f4e56e342445",
+    "bytes": 81739
+  },
+  {
+    "original_filename": "AF8BDA3A-979D-491D-BE43-A80B46FD2D59(5).jpeg",
+    "sha256": "c370273595ed0d458bb1bbf63ea20978f43626fa6711cde7af02621da6827881",
+    "bytes": 110407
+  },
+  {
+    "original_filename": "AF8BDA3A-979D-491D-BE43-A80B46FD2D59(6).jpeg",
+    "sha256": "c370273595ed0d458bb1bbf63ea20978f43626fa6711cde7af02621da6827881",
+    "bytes": 110407
+  },
+  {
+    "original_filename": "AF8BDA3A-979D-491D-BE43-A80B46FD2D59(7).jpeg",
+    "sha256": "c370273595ed0d458bb1bbf63ea20978f43626fa6711cde7af02621da6827881",
+    "bytes": 110407
+  },
+  {
+    "original_filename": "B32B18E6-827B-4759-9299-88E0F3BEC8D0(10).jpeg",
+    "sha256": "64f7fb353fec13aa96f5ed4b2a65acd0ee177dbb642818e9688fa8d6fc3b782c",
+    "bytes": 68723
+  },
+  {
+    "original_filename": "B32B18E6-827B-4759-9299-88E0F3BEC8D0(9).jpeg",
+    "sha256": "64f7fb353fec13aa96f5ed4b2a65acd0ee177dbb642818e9688fa8d6fc3b782c",
+    "bytes": 68723
+  },
+  {
+    "original_filename": "IMG_0062.jpeg",
+    "sha256": "740ede94ccde86eba271933193698f4f3b22e04153cb4d000cfdf2454054e388",
+    "bytes": 153719
+  },
+  {
+    "original_filename": "IMG_0063.jpeg",
+    "sha256": "c597ba0bf5f369b5422d392734aa900df20fc4d33844611bb66bc4c4d1206524",
+    "bytes": 521114
+  },
+  {
+    "original_filename": "IMG_0064.jpeg",
+    "sha256": "43cc750e7df343351d52d6f0d5144106ae342def6b8011ac1734cf42e3953ddc",
+    "bytes": 170349
+  },
+  {
+    "original_filename": "IMG_0065.jpeg",
+    "sha256": "fe33a15423e513532d3777bb3f794337e0c8f81bcb35bb7851300ce2508f8391",
+    "bytes": 191123
+  },
+  {
+    "original_filename": "IMG_0066.jpeg",
+    "sha256": "ad93a2def8927a4624823625a23eeae416bdc7fc37365a68dba98181c6671a1e",
+    "bytes": 460516
+  },
+  {
+    "original_filename": "IMG_0067.jpeg",
+    "sha256": "5ba14ef337477b344e6cb2bce0b71704cb439b5493da181e5a35d75ea64473e7",
+    "bytes": 126995
+  },
+  {
+    "original_filename": "IMG_0068.jpeg",
+    "sha256": "3fbe4a093ffba570da155b964b13cf72ba6863fb29d76012e461c9ccda529098",
+    "bytes": 500120
+  },
+  {
+    "original_filename": "IMG_0069.jpeg",
+    "sha256": "54eec97cc9dc41fc30693405cbc8a87f6e6e00a52ba587fdee803b5eb5e7693f",
+    "bytes": 658912
+  },
+  {
+    "original_filename": "IMG_0070.jpeg",
+    "sha256": "e5d725e886628debba16a93e7437e8753e144902bd32414b6dfd85693e8877b0",
+    "bytes": 497279
+  },
+  {
+    "original_filename": "IMG_0071.jpeg",
+    "sha256": "e4882fe14537ebad5c60018d4211c99f7b3d6a2f7396801f9a38ece49a81f98b",
+    "bytes": 139104
+  },
+  {
+    "original_filename": "IMG_0072.jpeg",
+    "sha256": "fcbb4de6c4b511110915dbe7d658faef8f97db2cee186bcc322f3942175bf93e",
+    "bytes": 422263
+  },
+  {
+    "original_filename": "IMG_0073.jpeg",
+    "sha256": "5168eafce06c2747e0276b47767ea7f69e0efefd29446973c24e791a3900767a",
+    "bytes": 50496
+  },
+  {
+    "original_filename": "IMG_0074.jpeg",
+    "sha256": "c7e71073e68d24ec9aaa3c849889479c71652c5616c3dbadbd4cd9f35a9ed978",
+    "bytes": 400228
+  },
+  {
+    "original_filename": "IMG_0075.jpeg",
+    "sha256": "ff5eebf5f1974f94f138f74a5972e80ca937ddafc1bf68f0746c813f58501c8f",
+    "bytes": 497950
+  },
+  {
+    "original_filename": "IMG_0076.jpeg",
+    "sha256": "3a6300cd54d8a4ac3011901d10aa58efd68aae3aeead0fa09c18bb1813f12c9b",
+    "bytes": 349890
+  },
+  {
+    "original_filename": "IMG_0077.jpeg",
+    "sha256": "d09c5a1aedd416c5a05e1b3ad17a3f1de849eaf549a1f061133434f436c3ff66",
+    "bytes": 172292
+  },
+  {
+    "original_filename": "IMG_0078.jpeg",
+    "sha256": "05176e6ca4531158d55ea63ff252827ef697ee1a7c91d3ca53bca406b6900037",
+    "bytes": 161831
+  },
+  {
+    "original_filename": "IMG_0079.jpeg",
+    "sha256": "5c36f42bdee6df847dd231d53649caf8857cb02585a3cba14709e6fc7ba57dad",
+    "bytes": 534613
+  },
+  {
+    "original_filename": "IMG_0080.jpeg",
+    "sha256": "2d0cdaf72886d10f1d59a7071d2345e6ffc8b1f21d63bc5cfac328f487b2ba3f",
+    "bytes": 139567
+  },
+  {
+    "original_filename": "IMG_0081.jpeg",
+    "sha256": "ec4b795bf6eb01b09745375e2652f55f508e5753e476cbda22f9c884dbb1cd05",
+    "bytes": 472833
+  },
+  {
+    "original_filename": "IMG_0082.jpeg",
+    "sha256": "639898280f0b5b4d12ac32ba98571c3c9af9e806f190dd8379d404109085eff9",
+    "bytes": 170076
+  },
+  {
+    "original_filename": "IMG_0083.jpeg",
+    "sha256": "84e891b85f4e110371ad89295f0c32b1a81d5f08e633b5d027eb35de61a54ecd",
+    "bytes": 162286
+  },
+  {
+    "original_filename": "IMG_0084.jpeg",
+    "sha256": "7af028998bf28f89aae27793eaffed69aa72b3a037adff232419adc356fe76ae",
+    "bytes": 336103
+  },
+  {
+    "original_filename": "IMG_0085.jpeg",
+    "sha256": "7f766953cd97d487a403c64a5ebf14fa3488855a6783907aca9633b8afaeb2d7",
+    "bytes": 370112
+  },
+  {
+    "original_filename": "IMG_0086(1).jpeg",
+    "sha256": "0459a33bf7b23f3d7ff7eabb21c3eb64dbcacdafa7d7cf12204ee9c2cdbae27c",
+    "bytes": 580607
+  },
+  {
+    "original_filename": "IMG_0087(1).jpeg",
+    "sha256": "886e862ab4b8270f206b25d35dca2e14308a3525409cf63b4127a27b8f343f77",
+    "bytes": 477975
+  },
+  {
+    "original_filename": "IMG_0088.jpeg",
+    "sha256": "f2c8eeee16bfa52181253b86c7cac0609d3062a64b0ee3934e05b61522f3f2fc",
+    "bytes": 127775
+  },
+  {
+    "original_filename": "IMG_0089.jpeg",
+    "sha256": "39702e8a896fceac9cefa6eb75475ebbd0b57de88a6505a89fc538292847ed8f",
+    "bytes": 165092
+  },
+  {
+    "original_filename": "IMG_0090.jpeg",
+    "sha256": "50864cb45db90ade903b6aadfb869f7442a4719ccf79da7ce78a6f43551b4da3",
+    "bytes": 495123
+  },
+  {
+    "original_filename": "IMG_0091.jpeg",
+    "sha256": "e5c8459f87e677ae5da4981163629d303ac9d626500119a1331ba4ba28e75645",
+    "bytes": 51224
+  },
+  {
+    "original_filename": "IMG_0092.jpeg",
+    "sha256": "9d80a1185f8646e0da9195c6dfe35228c0ac74a95ad06786b53cbfbbcd726353",
+    "bytes": 218916
+  },
+  {
+    "original_filename": "IMG_0093.jpeg",
+    "sha256": "f235ab1bc42c3c4b5e7007d14d0896e46c6e8e6f839ef57e6a74e92acb6d17a7",
+    "bytes": 136719
+  },
+  {
+    "original_filename": "IMG_0094.jpeg",
+    "sha256": "c1cfd12831d79c7879a9c00d8773d8140c0d8e3f876627557d223e61df8300cf",
+    "bytes": 136130
+  },
+  {
+    "original_filename": "IMG_0095.jpeg",
+    "sha256": "b186d923d7a233c84f7c81ba3e20b96e2cf792dfec9fc377bcb84b839decce72",
+    "bytes": 171706
+  },
+  {
+    "original_filename": "IMG_0096.jpeg",
+    "sha256": "a972e2afcd753aca75573bb87aaeaa96aac8a38cac64e8325444eaf3e30993fd",
+    "bytes": 50415
+  },
+  {
+    "original_filename": "IMG_0097.jpeg",
+    "sha256": "2404778e900a9bed8cab3c3261c547e8999716784afed0a0826cca39984b8b0b",
+    "bytes": 55702
+  },
+  {
+    "original_filename": "vocab-01-pumpkin.jpg",
+    "sha256": "e8e9f76bf88f3ab9f08868ae02521f29e7699a3bfb9a159d0530a93208ba0d16",
+    "bytes": 73453
+  },
+  {
+    "original_filename": "vocab-02-jack-o-lantern.jpg",
+    "sha256": "37f5ac0b4a6cdd83fe622c444fcb35d0ad5e60ca45a5642c97ac7991498d5cac",
+    "bytes": 75598
+  },
+  {
+    "original_filename": "vocab-03-candle.jpg",
+    "sha256": "60e91e04a04ccb9332a47e5c6522b091e0790966f5fdb6673c806811eb7b21a3",
+    "bytes": 34815
+  },
+  {
+    "original_filename": "vocab-04-lantern.jpg",
+    "sha256": "69303d5267b097e8a2e91ae4570581638c29e8b28b733c3141b1811aa4a34613",
+    "bytes": 85853
+  },
+  {
+    "original_filename": "vocab-05-broomstick.jpg",
+    "sha256": "f1002797ce11688162a4edb8404585c21edce5aa7882df7be972da96508f5ac5",
+    "bytes": 112570
+  },
+  {
+    "original_filename": "vocab-06-cauldron.jpg",
+    "sha256": "cd612be4d2fecd9effa0fbbdd8aa490ff98d1e4a6f8e6cecaf5c07e0ea9eb147",
+    "bytes": 93847
+  },
+  {
+    "original_filename": "vocab-07-magic-wand(1).jpg",
+    "sha256": "58fbc40ce263043ce044c25f421aad93b23dd5cd34851fa6c1aba4cd63d4a61a",
+    "bytes": 65274
+  },
+  {
+    "original_filename": "vocab-08-potion.jpg",
+    "sha256": "3f312d5f0f68fb8e4ceb8a4434dc7be037802b0dac4a4356327b910ae8cec1c5",
+    "bytes": 72038
+  },
+  {
+    "original_filename": "vocab-09-tombstone(1).jpg",
+    "sha256": "e8bf51ea70362b5dcd63936d8115d95f53a55d6ffbbbef3e565c447b1fe05bc2",
+    "bytes": 112267
+  },
+  {
+    "original_filename": "vocab-10-coffin.jpg",
+    "sha256": "02f56d09de21f6fa883f24489eed8b2853e6e5e04f554d754718c29233fb1d32",
+    "bytes": 95322
+  },
+  {
+    "original_filename": "vocab-11-haunted-house.jpg",
+    "sha256": "d84e8e65ebcc1583604c2de80f1d022c1e470192f0ca04ad2489931c763d0587",
+    "bytes": 93537
+  },
+  {
+    "original_filename": "vocab-12-ghost.jpg",
+    "sha256": "3cec7bc6d64e656bacca44fa1ddfc8f85bbdce7ac06e1eecddbb6b812071e066",
+    "bytes": 74935
+  },
+  {
+    "original_filename": "vocab-13-witch.jpg",
+    "sha256": "07cca71cc306d3ee9fc72cf56a978f1e09f4d6dd4f634b30eecc4424e5c90bcb",
+    "bytes": 72825
+  },
+  {
+    "original_filename": "vocab-14-vampire(3).jpg",
+    "sha256": "d881a01fae3dded52185f5acd9d7c31207377b28ade0dd2da02cc60f1f8a7025",
+    "bytes": 61637
+  },
+  {
+    "original_filename": "vocab-15-zombie(1).jpg",
+    "sha256": "dc834676c51041365bb754f17df64f513fc791e9147d9ef1f2844fb220f5fcae",
+    "bytes": 73764
+  },
+  {
+    "original_filename": "vocab-16-skeleton(1).jpg",
+    "sha256": "bd33247eba8da0ed718f5a8f45a8f10e75a5fca1c9c1fe9c60a825e49ecaf45c",
+    "bytes": 80040
+  },
+  {
+    "original_filename": "vocab-17-mummy.jpg",
+    "sha256": "1fdec9fd3e54bab89dcc17944bf1453f556207a732d0a8af05d1f5bb46e814a8",
+    "bytes": 103571
+  },
+  {
+    "original_filename": "vocab-18-werewolf(1).jpg",
+    "sha256": "b216679faea3d0e4ba56a24ced26a244cd5bb372e972ecf8e8ffbd0d5e7e9f9c",
+    "bytes": 85721
+  },
+  {
+    "original_filename": "vocab-19-frankenstein-monster.jpg",
+    "sha256": "65421183e571ff9a7764248c8c061524757fae8bf883abf789dc86eec18a7106",
+    "bytes": 76581
+  },
+  {
+    "original_filename": "vocab-20-devil.jpg",
+    "sha256": "89615450832374f44f2050de8386ea06085c0d43f89091d905fa6ddcf8053b51",
+    "bytes": 63045
+  },
+  {
+    "original_filename": "vocab-21-demon(1).jpg",
+    "sha256": "470eaf74bf2e7a137c5113953d6f6f8cf76a63389fb664daf7a2b53eecba41d2",
+    "bytes": 93686
+  },
+  {
+    "original_filename": "vocab-22-bat.jpg",
+    "sha256": "8349af27689b926cdde96b82d49bee0065bc4fc404c1eaa44d59a27896e7a957",
+    "bytes": 75356
+  },
+  {
+    "original_filename": "vocab-23-spider(1).jpg",
+    "sha256": "a49234d7159a3e97f20fda56e93404344d9d04fa152545c6fbc5d689ac138e30",
+    "bytes": 154611
+  },
+  {
+    "original_filename": "vocab-25-owl.jpg",
+    "sha256": "106142c7a6d1e131b7025f5b8eaa9879f15ce03471a28d7fd44e21d30c646159",
+    "bytes": 79901
+  },
+  {
+    "original_filename": "vocab-26-raven.jpg",
+    "sha256": "e2e396e4da52df73e350c02db9fe3d4b637234f3900fdf2ffd9f3f1c7e0e4dd3",
+    "bytes": 71662
+  },
+  {
+    "original_filename": "vocab-27-rat(1).jpg",
+    "sha256": "ca9a4762586e609ae977675b14c247f8e40fd1137291441dfc017b5c1de22774",
+    "bytes": 83084
+  },
+  {
+    "original_filename": "vocab-28-wolf.jpg",
+    "sha256": "6043812d185a92a486737a75b4039fab540ecfae52f4d4bc5d288e9db10fdddc",
+    "bytes": 66645
+  },
+  {
+    "original_filename": "vocab-29-full-moon(3).jpg",
+    "sha256": "4f8f2b74ace03198bd479bb4bfe8da3449b56edf9df42e1d9a3df4ca56633b69",
+    "bytes": 94127
+  },
+  {
+    "original_filename": "vocab-30-shadow.jpg",
+    "sha256": "b2a4b2b91f04430b99792c36171bc062bd5a80a408a7a35334349071481a1d87",
+    "bytes": 86612
+  },
+  {
+    "original_filename": "vocab-31-bonfire.jpg",
+    "sha256": "9aff4e7465bf8078a842eef59e42039ed98a15f0978d30fbe79276056a920f27",
+    "bytes": 100381
+  },
+  {
+    "original_filename": "vocab-32-scarecrow.jpg",
+    "sha256": "c4e96ae7d5c4b8bfe6181d46aa9b48975fe41fdbaf1ed8c533dbe6a51244f8be",
+    "bytes": 92084
+  },
+  {
+    "original_filename": "vocab-33-skull(3).jpg",
+    "sha256": "9d6f631ccd930d6ad20290e90087df9853705f243e5d413fba5bd38f245d0db0",
+    "bytes": 79093
+  },
+  {
+    "original_filename": "vocab-34-bones.jpg",
+    "sha256": "23152b76bc511f75433bf33cb67bcebfacdde635ca69b4ab14dddb08e731a3fe",
+    "bytes": 92557
+  },
+  {
+    "original_filename": "vocab-35-witch-hat(3).jpg",
+    "sha256": "387c433b22a7300fd249dc477fdc12614e07d99f5592c7fe608306bfdd3930d1",
+    "bytes": 72780
+  },
+  {
+    "original_filename": "vocab-36-mask(1).jpg",
+    "sha256": "14a6e83d4f2c579c38d4c7ed0fc6ae3b7a69d176364404ecbe460a71d3facf29",
+    "bytes": 80774
+  },
+  {
+    "original_filename": "vocab-37-cape.jpg",
+    "sha256": "afb4b67510ad6b1f9a5b93c5058c6de31209e709dea0c5006e3846196ce10e9d",
+    "bytes": 66960
+  },
+  {
+    "original_filename": "vocab-38-fangs.jpg",
+    "sha256": "344b47c0e272c7535e90ea1264e8edc7574299c0d7d54abc4490fd23f0439454",
+    "bytes": 64790
+  },
+  {
+    "original_filename": "vocab-39-horns(3).jpg",
+    "sha256": "a314f9baf533ffd9f9d44559818fc6285d426cdd354cafe2da94079d52a21415",
+    "bytes": 68797
+  },
+  {
+    "original_filename": "vocab-40-claws(1).jpg",
+    "sha256": "7eaf8d8e92b086f86402475af9ca44044e1ff99b65c593c5ba4eb389a0ddda11",
+    "bytes": 90814
+  },
+  {
+    "original_filename": "vocab-41-wings.jpg",
+    "sha256": "0367102cfe1eaa6a7e86bca45d45eb77a9fe5cd8e7dc23799651783a7bc051f2",
+    "bytes": 73692
+  },
+  {
+    "original_filename": "vocab-42-tail(1).jpg",
+    "sha256": "6177ba5b2687e883071ebe516765a791a86596b51c86c7739ed93ee8544a2a3c",
+    "bytes": 56405
+  },
+  {
+    "original_filename": "vocab-43-costume.jpg",
+    "sha256": "68dbc2fd20f25aaa0667a8684eeb0e80e014647be53e7cebadf9fc62f861f815",
+    "bytes": 93188
+  },
+  {
+    "original_filename": "vocab-44-caramel-apple.jpg",
+    "sha256": "43646c6801f683492bc25c373a6e674f04baf3f0749c12ca8fe07bda4fd88d6a",
+    "bytes": 71210
+  },
+  {
+    "original_filename": "vocab-45-candy-corn(1).jpg",
+    "sha256": "3e74293e4f17c58ee0f801ed821fb2dedf032cb77e0ec4b169a923dc4dc06a66",
+    "bytes": 76157
+  },
+  {
+    "original_filename": "vocab-46-sweets.jpg",
+    "sha256": "868dceb9ace95062ef0ed04e62f18b4f32003f514f721b72fc35f2115abde97f",
+    "bytes": 100246
+  },
+  {
+    "original_filename": "vocab-47-chocolate.jpg",
+    "sha256": "2727147bb1a0b4f2d91005c67a5016ebcf86c8670272365616efac40198a6fb9",
+    "bytes": 88285
+  },
+  {
+    "original_filename": "vocab-48-lollipop(1).jpg",
+    "sha256": "0e4d0cd3ca304960643d929aa121fe90a980a2b658ff4c49387a35c3f7e28938",
+    "bytes": 91660
+  },
+  {
+    "original_filename": "vocab-49-jelly-beans.jpg",
+    "sha256": "94734cc7e68f173fbd17d1f2a982f5285c95531f5ce1234dee4fb9175309ebab",
+    "bytes": 82541
+  },
+  {
+    "original_filename": "vocab-50-marshmallows(1).jpg",
+    "sha256": "e83b224e8da0d8979fd715e303b7c1a00dd4960525b99b3904f1850c5375a746",
+    "bytes": 108194
+  },
+  {
+    "original_filename": "vocab-51-brownie(1).jpg",
+    "sha256": "2a8895f5074180b57f19ec6886941359366a763ff46158aba4afabd2b77621f2",
+    "bytes": 125930
+  },
+  {
+    "original_filename": "vocab-52-cake.jpg",
+    "sha256": "e532bcf2a2a43618ae5f940bd79a2768a54cb3df9129dc95021a4090bff62d2a",
+    "bytes": 137155
+  },
+  {
+    "original_filename": "vocab-53-popcorn.jpg",
+    "sha256": "95f1dc884d5cbcf458aa005c5acaa1be1c71b9b5a6374e6bd56efdf08be222d9",
+    "bytes": 118759
+  }
+]
